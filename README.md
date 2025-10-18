@@ -1,1 +1,1 @@
-# woxchat-bot
+# woxchat_bot
